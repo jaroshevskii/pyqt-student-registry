@@ -78,14 +78,11 @@ CREATE TABLE students (
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-MIT License - feel free to use this project for educational purposes.
-
-## Author
-
-Your Name
-
 ## Acknowledgments
 
 Built with PyQt5 for educational purposes.
+
+
+## License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE.md) file for details.
